@@ -83,7 +83,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["RAMBACHAN KUSHAWAHA", "RABINDRA KUMAR KUSHWAHA", "SUSHANT KUMAR THAKUR", "BASANT CHAUDHARY", "ANGAJ MUKHIYA"],
+    strings: ["GRAPHIC DESIGNER", "WEB DEVELOPMENT", "ANDORID DEVELOPMENT", "AI APPLICATIONS", "fULL STACK DEV"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
